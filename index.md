@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+{% include navigation.html %}
 
-You can use the [editor on GitHub](https://github.com/kamyamah/kamyapersonal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Review Ticket](https://github.com/Athena9355/Team-123-final-version/issues/11)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img width="806" alt="Screen Shot 2022-02-27 at 9 08 37 PM" src="https://user-images.githubusercontent.com/69766714/158251646-c1470c5d-5856-44f1-99db-31bed75c9bd7.png">
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kamyamah/kamyapersonal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img width="511" alt="Screen Shot 2022-02-27 at 9 29 54 PM" src="https://user-images.githubusercontent.com/69766714/158250099-afa47238-1548-40d9-a42e-018afa5256d5.png">
+<img width="819" alt="Screen Shot 2022-02-27 at 9 09 07 PM" src="https://user-images.githubusercontent.com/69766714/158251660-6b75f985-cfb9-4597-bbd3-b77236c0bcec.png">
+<img width="665" alt="Screen Shot 2022-02-27 at 9 04 11 PM" src="https://user-images.githubusercontent.com/69766714/158251668-cfb9d70a-2fd1-45f1-b815-d7177c7db07c.png">
