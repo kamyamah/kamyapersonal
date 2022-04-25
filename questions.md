@@ -87,7 +87,7 @@ Provide and example of encryption we used in deployment.
 In deployment when using opensource we had to put in our password to our computers. 
 
 Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
-Someone sending me a link and it garnering personal information to hack my account. Emails and phone text are also ways scammers can ger your information
+Someone sending me a link and it garnering personal information to hack my account. Emails and phone text are also ways scammers can ger your informa,tion
 
 ### Faculty Lecutres
 <img width="789" alt="image" src="https://user-images.githubusercontent.com/69766714/165022210-98c842c4-f354-4418-b033-4bee849bd023.png">
