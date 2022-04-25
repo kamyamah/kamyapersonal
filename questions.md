@@ -88,3 +88,57 @@ In deployment when using opensource we had to put in our password to our compute
 
 Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
 Someone sending me a link and it garnering personal information to hack my account. Emails and phone text are also ways scammers can ger your information
+
+### Faculty Lecutres
+Checksums 
+12 digit barcode
+Peanut butter Demo
+We don't have to see it know what it should be 
+Add multiply by three top row and use last digit 
+Add only
+10- the values give out 
+Checksum algorithm used to find the barcode digit 
+When computing a two dimensional check sum 
+InstafaceFlix 
+Decoding it backwards 
+Keeping the last number for two dimensional
+There is a mistake in the third row because of the checksum 
+And the in the first column and the third rows 
+The intersection is where the error occurs 
+Barcode: error dection 
+Error correction: credit card 
+Software download verification demo 
+sha -256 encryption checksums
+Verify if your software was downloaded correctly 
+
+Checksums are everywhere 
+Cds dvds and harddrive 
+Ethernet 
+Deep space probes 
+
+CRD1- University faculty lecture 
+Improving collaboration
+To work together is collaboration 
+2 or more people 
+Same goal or purpose 
+Why collaborate 
+Develop skills for future skills for future careers 
+Create better computing innovations
+Avoid bias in computing innovations 
+Bias in computing 
+Racist algorithm
+Uber lift 
+Smiling faces
+When we have bias it doesn't work well for everyone   
+Who collaborates on computing 
+User developer 
+Developer 
+Client 
+Key to have diverse perspective 
+How will you gather input from representative samples 
+Design and developing 
+Investing 
+Prototyping 
+Testing
+breaking up small task into smaller pieces   
+   
