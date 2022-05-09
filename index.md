@@ -1,7 +1,9 @@
 {% include navigation.html %}
 
 [Review Ticket PBL Week 1 and 2](https://github.com/Athena9355/Team-123-final-version/issues/17)
+
 [Review Ticket PBL week 3](https://github.com/Athena9355/Team-123-final-version/issues/18)
+
 [Review Ticket Logins and accounts](https://github.com/Athena9355/Team-123-final-version/issues/15)
 
 <img width="806" alt="Screen Shot 2022-02-27 at 9 08 37 PM" src="https://user-images.githubusercontent.com/69766714/158251646-c1470c5d-5856-44f1-99db-31bed75c9bd7.png">
